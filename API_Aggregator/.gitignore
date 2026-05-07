@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# React
+node_modules/
+
+# Logs
+*.log
